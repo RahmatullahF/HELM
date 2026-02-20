@@ -3,7 +3,17 @@ entries:
   todochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-02-20T10:44:59.76582414Z"
+    created: "2026-02-20T11:18:07.377237199Z"
+    description: A Helm chart for Kubernetes
+    digest: 5b0d629bd79ed5c9a9c54605d3582ad684fda4cf32ffc5fa8d489bae2666eb3a
+    name: todochart
+    type: application
+    urls:
+    - todochart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-02-20T11:18:07.376551788Z"
     description: A Helm chart for Kubernetes
     digest: 164128fa97f0b5f015b4c57e3b7991b45d9f2c9e18534711e6264aaf99c8e1a6
     name: todochart
@@ -11,4 +21,4 @@ entries:
     urls:
     - todochart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-20T10:44:59.764880144Z"
+generated: "2026-02-20T11:18:07.375552251Z"
